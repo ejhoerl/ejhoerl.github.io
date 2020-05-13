@@ -3387,6 +3387,7 @@ input, select, textarea {
 		}
 
 		#banner .logo {
+			border-radius: 5px;
 			-moz-transition: opacity 2s ease, -moz-transform 1s ease;
 			-webkit-transition: opacity 2s ease, -webkit-transform 1s ease;
 			-ms-transition: opacity 2s ease, -ms-transform 1s ease;
